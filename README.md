@@ -1,4 +1,4 @@
-![Header](https://github.com/palindare/palindare/blob/main/assets/next-logo-01.jpg)
+![Header](https://github.com/palindare/palindare/blob/main/assets/next-logo.jpg)
 
 About me
 
